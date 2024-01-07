@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+}
+
+
+body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+header{
+    margin: 30px;
+    /* padding-top: 90px; */
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    border-radius: 16px;
+    background-image: url('./image/BannerImage.png');
+    background-repeat: no-repeat;
+    font-family: 'DM Serif Display', sans-serif;
+    color:#fff;
+    
+    
+
+}
+
+.newyear{
+    border-radius: 16px;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.467);
+
+}
+header p{
+    font-family: 'Merriweather', serif;
+    padding-top: 90px;
+    font-size: 60px; 
+    padding-bottom: 0px;
+    
+}
+header h1{
+    font-family: 'Merriweather', serif;
+    font-size: 100PX;
+    padding-top: 20px;
+}
+
+
+.categori{
+    text-align: center;
+}
+
+.categori h1{
+
+    font-size: 70PX;
+    color: red;
+}
+.categori h6{
+
+    font-size: 20PX;
+    color: red;
+}
+
+.categori h2{
+
+    font-size: 40PX;
+}
+.mid_night{
+    margin: 30px;
+    /* padding-top: 90px; */
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    text-align:left;
+    border-radius: 16px;
+    background-image: url('./image/Vectorrr.png');
+    background-repeat: no-repeat;
+    font-family: 'DM Serif Display', sans-serif;
+    color:#fff;
+}
+
+.mid_night h1{
+    font-family: 'Merriweather', serif;
+    padding-top: 90px;
+    font-size: 80PX;
+    
+}
+
+.mid{
+    padding: 40px;
+    border-radius: 16px;
+    height: 520px;
+    background-color: rgba(0, 0, 0, 0.467);
+    display: flex;
+}
+.mid p{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 20px;
+}
+.mid a{
+    padding-top: 30px;
+    font-size: 20;
+    text-decoration: none;
+    color: #fff;
+}
+
+.park{
+    margin: 30px;
+    padding-top: 100px;
+    text-align: center;
+    border-radius: 16px;
+    height: 300px;
+    background-color: rgba(201, 166, 166, 0.143);
+    font-size: 30px;
+}
+.park span{
+    color: red;
+}
+.park button{
+    background-color: red;
+    color: #fff;
+    border:none;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+
+.best{
+    display: flex;
+    margin: 30px;
+    justify-content: space-around;
+}
+.best h3{
+    color: red;
+}
+.bestOffer{
+    width: 400px;
+
+}
+.bestOffer h3{
+    font-size: 25px;
+
+}
+.bestOffer h1{
+    font-size: 50px;
+
+}
+.best p{
+    font-size: 17px;
+    color: rgba(7, 2, 17, 0.60);
+
+}
+
+.bestimg{
+    width: 400px;
+    height: 400px;
+    border-radius: 400px;
+    border: 12px solid #F00;
+}
+.bestimg img{
+    width: 360px;
+    height: 360px;
+    padding: 20px;
+}
+.twenty-four{
+    width: 400px;
+   
+}
+.twenty-four h3{
+   font-size: 50px;
+   
+}
+.twenty-four img{
+   padding: 10px;
+}
